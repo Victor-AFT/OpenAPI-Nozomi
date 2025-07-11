@@ -5,3 +5,5 @@ Utilizando las siguientes querys:
 - Nodos No complentamente aprendidos ->
 - Links No completamente aprendidos ->
 - Links aprendidos ->
+
+Almacenamos el contenido en un fichero csv.
